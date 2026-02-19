@@ -7,5 +7,7 @@ shadersrc/game
 shadersrc/include
 shadersrc/shaders
 
-lib
+*.idb
+*.lib
+*.pdB
 temp
