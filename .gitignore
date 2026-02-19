@@ -1,0 +1,11 @@
+.vs
+
+*.vcxproj.user
+*.vcxproj.filters
+
+shadersrc/game
+shadersrc/include
+shadersrc/shaders
+
+lib
+temp
